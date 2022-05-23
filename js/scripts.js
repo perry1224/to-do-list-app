@@ -30,6 +30,7 @@ function newItem(){
      		li.addClass("delete")
      	}
        $('#list').sortable();
+}
     
     
     
@@ -39,6 +40,5 @@ function newItem(){
     
     
     
-    
-      }
+      
     
